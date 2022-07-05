@@ -40,7 +40,7 @@
     <form n="1">
         <orth>surreptitious</orth>
         <usg type="geo">UK</usg>
-        <pro notation="ipa">/ˌsʌr.əpˈtɪʃ.əs/</pro>
+        <pro notation="ipa">/ˌsʌr.əpˈtɪʃ.əs/ </pro>
        <form n="2">
           <usg type="geo">US</usg>
           <pro notation="ipa">/ˌsɝː.əpˈtɪʃ.əs/</pro>
@@ -79,5 +79,5 @@
          <quote n="1">a film exposing the sordid underbelly of modern urban society</quote>
          <quote n="2">Small businesses are the soft underbelly (= weakest parts) of the economy, and they need as much government support as possible.</quote>
      </cit> 
- </entry>  
+ </entry> 
     
